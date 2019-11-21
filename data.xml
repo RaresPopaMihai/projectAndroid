@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bobjects>
+    <bobject>
+        <idd>0</idd>
+        <name>Ford Mustang</name>
+        <sPrice>45000.0</sPrice>
+        <desc>Real american muscle.The ford mustang has a 5.0L V8 Engine with 480 break horse power.If you want something special this car is for you!</desc>
+    </bobject>
+    <bobject>
+        <idd>1</idd>
+        <name>Gibson Les Paul</name>
+        <sPrice>500.0</sPrice>
+        <desc>You ever dreamed to be a rockstar?Then this guitar model is for you.Various artists like Slash made history with this</desc>
+    </bobject>
+    <bobject>
+        <idd>2</idd>
+        <name>Carul Cu Boi</name>
+        <sPrice>7000.0</sPrice>
+        <desc>A very special painting from Nicolae Grigorescu.If you have a thing for art,grab this painting while its hot</desc>
+    </bobject>
+    <bobject>
+        <idd>3</idd>
+        <name>Iphone11</name>
+        <sPrice>1000.5</sPrice>
+        <desc>You know what they say: the newer the better.Grab the newest apple Iphone</desc>
+    </bobject>
+    <bobject>
+        <idd>4</idd>
+        <name>Zippo Spectrum</name>
+        <sPrice>100.0</sPrice>
+        <desc>Everyone smokes right?But not everyone smokes in style.This lighter trully is something special</desc>
+    </bobject>
+</bobjects>
